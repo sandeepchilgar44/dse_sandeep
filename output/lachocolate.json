@@ -1,0 +1,368 @@
+[
+    {
+        "title": "6 chocolate bars Box",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3291/box-bars.jpg",
+        "price": "56.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/box-bars"
+    },
+    {
+        "title": "Rustic Peru",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3276/perou-rustic-tradition-chocolate-bar-dark.jpg",
+        "price": "10.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/perou-rustic-tradition-chocolate-bar-dark"
+    },
+    {
+        "title": "Extra Dark",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3269/single-origin-bar-dark-peru-100.jpg",
+        "price": "10.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-dark-peru-100"
+    },
+    {
+        "title": "The Blend",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3310/signature-bar-dark-the-blend-75.jpg",
+        "price": "10.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/signature-bar-dark-the-blend-75"
+    },
+    {
+        "title": "Sugar-free",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3298/tradition-bar-dark-sugar-free.jpg",
+        "price": "10.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/tradition-bar-dark-sugar-free"
+    },
+    {
+        "title": "Rustic Madagascar",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3277/tradition-bar-madagascar-milk-rustic.jpg",
+        "price": "10.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/tradition-bar-madagascar-milk-rustic"
+    },
+    {
+        "title": "Triumph Bar",
+        "image": "https://www.lechocolat-alainducasse.com/uk/4284/triumph-bar-milk.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/triumph-bar-milk"
+    },
+    {
+        "title": "Chopped Pistachios",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3401/mendiant-bar-dark-chopped-pistachio.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/mendiant-bar-dark-chopped-pistachio"
+    },
+    {
+        "title": "Caramelised hazelnut",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3403/mendiant-bar-dark-caramelized-hazelnut.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/mendiant-bar-dark-caramelized-hazelnut"
+    },
+    {
+        "title": "Caramelised almonds",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3405/mendiant-bar-caramelised-almond.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/mendiant-bar-caramelised-almond"
+    },
+    {
+        "title": "Almonds & candied oranges & figs",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3407/mendiant-bar-dark-almond-candied-orange-fig.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/mendiant-bar-dark-almond-candied-orange-fig"
+    },
+    {
+        "title": "Caramelised almonds",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3409/mendiant-bar-milk-caramelized-almond.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/mendiant-bar-milk-caramelized-almond"
+    },
+    {
+        "title": "Almonds & candied oranges & figs",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3411/mendiant-bar-milk-almond-orange-fig.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/mendiant-bar-milk-almond-orange-fig"
+    },
+    {
+        "title": "Chopped Pistachios",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3413/mendiant-bar-milk-chopped-pistachio.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/mendiant-bar-milk-chopped-pistachio"
+    },
+    {
+        "title": "Nougatine & fleur de sel",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3399/mendiant-bar-dark-nougatine-fleur-de-sel.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/mendiant-bar-dark-nougatine-fleur-de-sel"
+    },
+    {
+        "title": "Nougatine & fleur de sel",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3423/mendiant-bar-milk-nougatine-fleur-sel.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/mendiant-bar-milk-nougatine-fleur-sel"
+    },
+    {
+        "title": "Caremelised hazelnut",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3415/mendiant-bar-milk-caramelized-hazelnut.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/mendiant-bar-milk-caramelized-hazelnut"
+    },
+    {
+        "title": "Ecuador National Arriba",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3299/single-origin-bar-equador-85.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-equador-85"
+    },
+    {
+        "title": "Madagascar Mivoatra",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3398/madagascar-mivoatra-bar.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/madagascar-mivoatra-bar"
+    },
+    {
+        "title": "Vietnam",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3278/single-origin-bar-dark-vietnam-75.jpg",
+        "price": "9.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-dark-vietnam-75"
+    },
+    {
+        "title": "Philippines Trinitario",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3322/single-origin-bar-dark-philippines-trinitario-75.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-dark-philippines-trinitario-75"
+    },
+    {
+        "title": "Peru Chuncho",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3311/single-origin-bar-dark-chuncho-peru-75-grand-cru.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-dark-chuncho-peru-75-grand-cru"
+    },
+    {
+        "title": "Colombie Criollo",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3388/colombie-criollo.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/colombie-criollo"
+    },
+    {
+        "title": "Venezuela Chuao",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3272/single-origin-bar-dark-chuao-75.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-dark-chuao-75"
+    },
+    {
+        "title": "Madagascar Criollo & Trinitario",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3296/single-origin-bar-dark-madagascar-75-grand-cru.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-dark-madagascar-75-grand-cru"
+    },
+    {
+        "title": "Mexico Criollo & Almendra Blanca",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3297/single-origin-dark-mexico-75-grand-cru.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-dark-mexico-75-grand-cru"
+    },
+    {
+        "title": "Sao Tome & Principe Amelonado",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3312/single-origin-bar-dark-sao-tome-amelonado-75-grand-cru.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-dark-sao-tome-amelonado-75-grand-cru"
+    },
+    {
+        "title": "Equateur",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3551/equateur.jpg",
+        "price": "9.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/equateur"
+    },
+    {
+        "title": "Togo",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3550/togo-chocolate-milk.jpg",
+        "price": "9.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/togo-chocolate-milk"
+    },
+    {
+        "title": "Madagascar",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3552/single-origin-bar-madagascar-milk-55.jpg",
+        "price": "9.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-madagascar-milk-55"
+    },
+    {
+        "title": "Madagascar",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3273/single-origin-bar-milk-madagascar-45.jpg",
+        "price": "9.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-milk-madagascar-45"
+    },
+    {
+        "title": "Madagascar",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3553/single-origin-bar-milk-madagascar-35.jpg",
+        "price": "9.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-milk-madagascar-35"
+    },
+    {
+        "title": "Pralin\u00e9 Triumph Hexagone",
+        "image": "https://www.lechocolat-alainducasse.com/uk/4277/triumph-hexagone-dark.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/triumph-hexagone-dark"
+    },
+    {
+        "title": "Coconut Pralin\u00e9",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3481/filled-bar-dark-coconut-praline.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/filled-bar-dark-coconut-praline"
+    },
+    {
+        "title": "Hazelnut pralin\u00e9 & fleur de sel",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3417/filled-bar-dark-hazelnut-praline-fleur-sel.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/filled-bar-dark-hazelnut-praline-fleur-sel"
+    },
+    {
+        "title": "Hazelnut pralin\u00e9 & fleur de sel",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3425/filled-bar-milk-hazelnut-praline-fleur-sel.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/filled-bar-milk-hazelnut-praline-fleur-sel"
+    },
+    {
+        "title": "Smooth Caramel",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3427/filled-bar-dark-smooth-caramel.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/filled-bar-dark-smooth-caramel"
+    },
+    {
+        "title": "Smooth Caramel",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3433/filled-bar-milk-smooth-caramel.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/filled-bar-milk-smooth-caramel"
+    },
+    {
+        "title": "French Hexagon Mendiant",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3318/french-hexagon-mendiant-milk.jpg",
+        "price": "26.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/french-hexagon-mendiant-milk"
+    },
+    {
+        "title": "French Hexagon Mendiant",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3317/french-hexagon-mendiant-dark.jpg",
+        "price": "26.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/french-hexagon-mendiant-dark"
+    },
+    {
+        "title": "French Nuts & Candied fruits",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3930/nuts-candied-fruits-elysee-bar-dark.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/nuts-candied-fruits-elysee-bar-dark"
+    },
+    {
+        "title": "French Nuts & Candied Fruits",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3931/fruits-secs-confits-francais-tablette-elysee-lait.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/fruits-secs-confits-francais-tablette-elysee-lait"
+    },
+    {
+        "title": "Giant Chocolate bars",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3290/giant-chocolate-bar-dark.jpg",
+        "price": "73.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/giant-chocolate-bar-dark"
+    },
+    {
+        "title": "Giant Chocolate bars",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3305/giant-chocolate-bar-milk.jpg",
+        "price": "73.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/giant-chocolate-bar-milk"
+    },
+    {
+        "title": "Square Bites Box - 50 pieces",
+        "image": "https://www.lechocolat-alainducasse.com/uk/4254/square-bites-box-50-pieces.jpg",
+        "price": "30.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/square-bites-box-50-pieces"
+    },
+    {
+        "title": "Triumph Bar",
+        "image": "https://www.lechocolat-alainducasse.com/uk/4282/triumph-bar-dark.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/triumph-bar-dark"
+    },
+    {
+        "title": "Pralin\u00e9 Triumph Hexagon",
+        "image": "https://www.lechocolat-alainducasse.com/uk/4281/triumph-hexagone-milk.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/triumph-hexagone-milk"
+    },
+    {
+        "title": "Coconut Milk",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3323/vegan-chocolate-bar-coconut-milk-45.jpg",
+        "price": "9.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/vegan-chocolate-bar-coconut-milk-45"
+    },
+    {
+        "title": "Cocoa Pods Bar",
+        "image": "https://www.lechocolat-alainducasse.com/uk/4015/cocoa-pods-bar.jpg",
+        "price": "13.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/cocoa-pods-bar"
+    },
+    {
+        "title": "Tanzanie",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3390/tanzanie.jpg",
+        "price": "9.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/tanzanie"
+    },
+    {
+        "title": "Java",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3270/single-origin-bar-dark-java-75.jpg",
+        "price": "9.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-dark-java-75"
+    },
+    {
+        "title": "Bolivia Wild Cocoa",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3309/single-origin-bar-dark-bolivia-75.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-dark-bolivia-75"
+    },
+    {
+        "title": "Brazil Forastero Blanco",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3308/single-origin-bar-dark-cru-brasil-75.jpg",
+        "price": "12.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-dark-cru-brasil-75"
+    },
+    {
+        "title": "Peru",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3274/single-origin-bar-milk-peru-45.jpg",
+        "price": "9.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-milk-peru-45"
+    },
+    {
+        "title": "Pistachio pralin\u00e9",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3421/filled-bar-dark-pistachio-praline.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/filled-bar-dark-pistachio-praline"
+    },
+    {
+        "title": "Pistachio-flavoured Marzipan",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3419/filled-bar-dark-pistachio-flavoured-marzipan.jpg",
+        "price": "15.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/filled-bar-dark-pistachio-flavoured-marzipan"
+    },
+    {
+        "title": "Petit Coq",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3961/little-rooster-dark.jpg",
+        "price": "6.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/little-rooster-dark"
+    },
+    {
+        "title": "Little Rooster",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3962/little-rooster-milk.jpg",
+        "price": "6.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/little-rooster-milk"
+    },
+    {
+        "title": "French Hexagon Pralin\u00e9",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3429/french-hexagon-dark-praline.jpg",
+        "price": "18.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/french-hexagon-dark-praline"
+    },
+    {
+        "title": "French Hexagon Pralin\u00e9",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3431/french-hexagon-milk-praline.jpg",
+        "price": "18.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/french-hexagon-milk-praline"
+    },
+    {
+        "title": "Square Bites Box - 30 pieces",
+        "image": "https://www.lechocolat-alainducasse.com/uk/3348/square-chocolate-bites-box-30-pieces.jpg",
+        "price": "20.00",
+        "url": "https://www.lechocolat-alainducasse.com/uk/square-chocolate-bites-box-30-pieces"
+    }
+]

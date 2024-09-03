@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Susumaniello Ruggero di Bardo",
+        "image": "/content/dam/trjo/products/m306/wine/62109.png/jcr:content/renditions/cq5dam.web.1280.1280",
+        "price": 9.99,
+        "url": "/home/products/pdp/susumaniello-ruggero-di-bardo-062109"
+    },
+    {
+        "title": "Pumpkin Spice Chardonnay",
+        "image": "/content/dam/trjo/products/m306/wine/79524.png/jcr:content/renditions/cq5dam.web.1280.1280",
+        "price": 6.99,
+        "url": "/home/products/pdp/pumpkin-spice-chardonnay-079524"
+    },
+    {
+        "title": "Langhe Nebbiolo Rosa dell Olmo 2021",
+        "image": "/content/dam/trjo/products/m306/wine/78993.png/jcr:content/renditions/cq5dam.web.1280.1280",
+        "price": 8.99,
+        "url": "/home/products/pdp/langhe-nebbiolo-rosa-dell-olmo-2021-078993"
+    },
+    {
+        "title": "Caretaker Pinot Noir 2022",
+        "image": "/content/dam/trjo/products/m306/wine/99318.png/jcr:content/renditions/cq5dam.web.1280.1280",
+        "price": 9.99,
+        "url": "/home/products/pdp/caretaker-pinot-noir-2022-099318"
+    },
+    {
+        "title": "Loudenotte Pinot Noir 2022",
+        "image": "/content/dam/trjo/products/m306/wine/66788.png/jcr:content/renditions/cq5dam.web.1280.1280",
+        "price": 6.99,
+        "url": "/home/products/pdp/loudenotte-pinot-noir-2022-066788"
+    },
+    {
+        "title": "Moon X Pinot Noir",
+        "image": "/content/dam/trjo/products/m306/wine/57636.png/jcr:content/renditions/cq5dam.web.1280.1280",
+        "price": 6.99,
+        "url": "/home/products/pdp/moon-x-pinot-noir-057636"
+    },
+    {
+        "title": "Speculoos Cookie Butter Beer",
+        "image": "/content/dam/trjo/products/m306/beer/75215.png/jcr:content/renditions/cq5dam.web.1280.1280",
+        "price": 3.75,
+        "url": "/home/products/pdp/speculoos-cookie-butter-beer-075215"
+    },
+    {
+        "title": "Motif Cabernet Sauvignon Red Hills Lake County",
+        "image": "/content/dam/trjo/products/m306/wine/76075.png/jcr:content/renditions/cq5dam.web.1280.1280",
+        "price": 4.99,
+        "url": "/home/products/pdp/motif-cabernet-sauvignon-red-hills-lake-county-076075"
+    },
+    {
+        "title": "Grand Reserve Syrah Sonoma County 2022",
+        "image": "/content/dam/trjo/products/m306/wine/79632.png/jcr:content/renditions/cq5dam.web.1280.1280",
+        "price": 12.99,
+        "url": "/home/products/pdp/grand-reserve-syrah-sonoma-county-2022-079632"
+    },
+    {
+        "title": "Reserve Chardonnay Yountville Napa Valley 2023",
+        "image": "/content/dam/trjo/products/m306/wine/79777.png/jcr:content/renditions/cq5dam.web.1280.1280",
+        "price": 9.99,
+        "url": "/home/products/pdp/reserve-chardonnay-yountville-napa-valley-2023-079777"
+    }
+]
